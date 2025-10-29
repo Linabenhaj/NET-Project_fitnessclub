@@ -1,0 +1,12 @@
+C:\Users\Benha\source\repos\FitnesclubLedenbeheer.WPF\FitnesclubLedenbeheer.Models\bin\Debug\net9.0\FitnesclubLedenbeheer.Models.deps.json
+C:\Users\Benha\source\repos\FitnesclubLedenbeheer.WPF\FitnesclubLedenbeheer.Models\bin\Debug\net9.0\FitnesclubLedenbeheer.Models.dll
+C:\Users\Benha\source\repos\FitnesclubLedenbeheer.WPF\FitnesclubLedenbeheer.Models\bin\Debug\net9.0\FitnesclubLedenbeheer.Models.pdb
+C:\Users\Benha\source\repos\FitnesclubLedenbeheer.WPF\FitnesclubLedenbeheer.Models\obj\Debug\net9.0\FitnesclubLedenbeheer.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benha\source\repos\FitnesclubLedenbeheer.WPF\FitnesclubLedenbeheer.Models\obj\Debug\net9.0\FitnesclubLedenbeheer.Models.AssemblyInfoInputs.cache
+C:\Users\Benha\source\repos\FitnesclubLedenbeheer.WPF\FitnesclubLedenbeheer.Models\obj\Debug\net9.0\FitnesclubLedenbeheer.Models.AssemblyInfo.cs
+C:\Users\Benha\source\repos\FitnesclubLedenbeheer.WPF\FitnesclubLedenbeheer.Models\obj\Debug\net9.0\FitnesclubLedenbeheer.Models.csproj.CoreCompileInputs.cache
+C:\Users\Benha\source\repos\FitnesclubLedenbeheer.WPF\FitnesclubLedenbeheer.Models\obj\Debug\net9.0\FitnesclubLedenbeheer.Models.sourcelink.json
+C:\Users\Benha\source\repos\FitnesclubLedenbeheer.WPF\FitnesclubLedenbeheer.Models\obj\Debug\net9.0\FitnesclubLedenbeheer.Models.dll
+C:\Users\Benha\source\repos\FitnesclubLedenbeheer.WPF\FitnesclubLedenbeheer.Models\obj\Debug\net9.0\refint\FitnesclubLedenbeheer.Models.dll
+C:\Users\Benha\source\repos\FitnesclubLedenbeheer.WPF\FitnesclubLedenbeheer.Models\obj\Debug\net9.0\FitnesclubLedenbeheer.Models.pdb
+C:\Users\Benha\source\repos\FitnesclubLedenbeheer.WPF\FitnesclubLedenbeheer.Models\obj\Debug\net9.0\ref\FitnesclubLedenbeheer.Models.dll
